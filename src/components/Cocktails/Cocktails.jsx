@@ -1,4 +1,4 @@
-import styles from './Cocktails.module.css';
+// import styles from './Cocktails.module.css';
 import CocktailCard from '../CocktailCard';
 import QueryLoader from '../QueryLoader';
 import { useState, useEffect } from 'react';

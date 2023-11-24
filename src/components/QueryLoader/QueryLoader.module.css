@@ -1,0 +1,16 @@
+.common {
+	width: 90%;
+	margin: 0 auto;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-gap: 15px;
+}
+
+.center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 30px;
+	color: brown;
+	font-weight: 700;
+}
